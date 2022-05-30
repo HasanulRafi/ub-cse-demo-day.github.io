@@ -724,12 +724,21 @@
     - name: Jean Vigroux - jeanvigr@buffalo.edu
     title: Workout Tracker
   title: Independent Study
-- code: CSE 446
+- code: CSE 546
   projects:
-  - description: AWS deepracer project using RL <br><br>https://aws.amazon.com/deepracer/
+  - description: MAWS DeepRacer is an integrated learning system that allows users of all 
+      levels to study and experiment with reinforcement learning as well as construct autonomous
+      driving apps. In AWS DeepRacer reinforcement learning, an agent (vehicle) learns from its
+      surroundings (a track) by interacting with it and collecting rewards for certain behaviors
+      model training procedure will mimic several vehicle encounters on the track in an attempt 
+      to develop a policy (a function translating the agent’s present state to a driving choice)
+      that maximizes the agent’s average total reward. Following training, we will be able to test 
+      the model's performance on different tracks or run it through a virtual circuit.
+
     team:
-    - name: jaskara2@buffalo.edu
-    - name: mukeshga@buffalo.edu
+    - name: Mohammed Hasanul Abedin Chowdhury Rafi mabedinr@buffalo.edu
+    - name: Jaskaran Singh jaskara2@buffalo.edu
+    - name: Mukesh Chaudhary mukeshga@buffalo.edu
     title: AWS DeepRacer
     url: https://docs.google.com/presentation/d/13xUokIMvdD8V79nEp-ZMseVEMJJtyFNx/edit#slide=id.p1
   title: ''
